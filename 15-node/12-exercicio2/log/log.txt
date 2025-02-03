@@ -1,0 +1,65 @@
+DADOS DO OS :
+
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 6 minutos e 46 segundos
+Memória RAM livre: 4.52 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 6 minutos e 51 segundos
+Memória RAM livre: 4.55 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 6 minutos e 56 segundos
+Memória RAM livre: 4.51 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 1 segundos
+Memória RAM livre: 4.51 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 6 segundos
+Memória RAM livre: 4.52 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 11 segundos
+Memória RAM livre: 4.53 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 16 segundos
+Memória RAM livre: 4.54 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 21 segundos
+Memória RAM livre: 4.46 GB
+
+Nome do sistema operacional: DESKTOP-DBJQNIC
+Plataforma: Windows
+Arquitetura do sistema: x64
+Modelo do processador: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Tempo de ligado: 0 dias, 14 horas, 7 minutos e 26 segundos
+Memória RAM livre: 4.29 GB

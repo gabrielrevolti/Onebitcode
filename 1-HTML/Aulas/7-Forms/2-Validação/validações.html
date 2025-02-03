@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validações</title>
+</head>
+<body>
+    <!-- Exemplo 1 (text)-->
+    <div>
+        <h1>Encontre no Google</h1>
+        <form action="https://www.google.com/search" method="get" target="blank">
+            <label for="q">O que deseja pesquisar</label>
+            <input type="text" id="q" name="q" placeholder="escreva o que deseja..." required>
+            <input type="submit" value="pesquisar">
+    </div>
+
+    <hr>
+
+    <!-- Exemplo 2 (radio)-->
+    <div>
+        <h1>Linguagem favorita</h1>
+        <form>
+            <input type="radio" id="html" name="linguagem" value="HTML">
+            <label for="html">HTML</label><br>
+
+            <input type="radio" id="css" name="linguagem" value="CSS">
+            <label for="css">CSS</label><br>
+
+            <input type="radio" id="javasript" name="linguagem" value="JavaScript"> 
+            <label for="javascript">JavaScript</label>
+        </form>
+    </div>
+
+    <hr>
+
+    <!-- Exemplo 3 (checkbox) -->
+    <div>
+        <h1>Veiculos</h1>
+        <form>
+            <input type="checkbox" id="veiculo1" name="veiculo1" value="Bike">
+            <label for="veiculo1">Eu tenho uma bike</label><br>
+
+            <input type="checkbox" id="veiculo2" name="veiculo2" value="Moto">
+            <label for="veiculo2">Eu tenho uma moto</label><br>
+
+            <input type="checkbox" id="veiculo3" name="veiculo3" value="Carro">
+            <label for="veiculo3">Eu tenho um carro</label>
+        </form>
+    </div>
+
+    <hr>
+
+    <!-- Exemplo 4 () -->
+    <div>
+        <h1>Cadastro</h1>
+        <form action="validações.html">
+            <input type="text" id="nome" name="nome" required autocomplete="on" placeholder="Nome"><br>
+            
+            <input type="text" id="sobrenome" name="sobrenome" required autocomplete="on" placeholder="Sobrenome"><br>
+
+            <input type="email" id="email" name="email" required placeholder="Email" autocomplete="off"><br>
+            
+            <input type="password" id="senha" name="senha" placeholder="Senha"><br>
+        </form>
+    </div>
+</body>
+</html>

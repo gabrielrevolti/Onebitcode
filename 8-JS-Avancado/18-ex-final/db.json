@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": "8b55",
+      "name": "conta de luz",
+      "amount": -100
+    },
+    {
+      "id": "d9d7",
+      "name": "conta de água ",
+      "amount": -100
+    },
+    {
+      "id": "ee14",
+      "name": "internet",
+      "amount": -200
+    },
+    {
+      "id": "3ad7",
+      "name": "salario",
+      "amount": 3200
+    }
+  ]
+}

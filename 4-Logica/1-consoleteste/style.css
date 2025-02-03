@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    color: black;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px 100px 0px 100px;
+    background-color: lightgray;
+}
+
+.h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.p{
+   text-align: justify;
+   padding: 10px;
+   font-size: 20px;
+}

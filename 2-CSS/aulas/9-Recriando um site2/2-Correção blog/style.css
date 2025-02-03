@@ -1,0 +1,33 @@
+@charset "UTf-8";
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-container{
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #fffafa;
+}
+
+.date{
+    font-family: 'Roboto', sans-serif;
+    color: #008080;
+}
+
+.post-content{
+    width: 90%;
+    font-family: 'Open Sans';
+}
+
+.post{
+    margin-left:50px;
+    padding: 20px;
+}
+

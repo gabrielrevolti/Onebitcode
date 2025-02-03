@@ -1,0 +1,36 @@
+
+.container{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 60px 60px;
+    margin: 100px;
+}
+
+
+.bloco1R{
+    text-align: center;
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.bloco2B{
+    text-align: center;
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.bloco3G{
+    text-align: center;
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}

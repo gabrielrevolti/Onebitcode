@@ -1,0 +1,28 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;Test Page&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;h1&gt;Welcome to My Test Page&lt;/h1&gt;
+    &lt;/header&gt;
+    &lt;section&gt;
+        &lt;p&gt;This is a simple HTML page to test basic features like lists, buttons, and images.&lt;/p&gt;
+
+        &lt;h2&gt;Here is a list of things:&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;HTML basics&lt;/li&gt;
+            &lt;li&gt;CSS for styling&lt;/li&gt;
+            &lt;li&gt;JavaScript for interactivity&lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;h2&gt;And an image:&lt;/h2&gt;
+        &lt;img src="https://via.placeholder.com/200" alt="Placeholder Image"&gt;
+
+        &lt;h2&gt;Click the button below:&lt;/h2&gt;
+        &lt;button onclick="alert('Button clicked!')"&gt;Click Me&lt;/button&gt;
+    &lt;/section&gt;
+&lt;/body&gt;
+&lt;/html&gt;
